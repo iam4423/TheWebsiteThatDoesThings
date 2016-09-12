@@ -9,5 +9,6 @@ The intention for this project is a web app where the user is presented with a c
  - deal with menu bar overflow
  - create start of console window (accept input/add input to console on enter)
  - create help 'app' for console
+ - have a look at using local storage to save the users state
  
  ### This project makes use of the JsML Html Builder i created found at https://github.com/iam4423/HTML-Builder
