@@ -19,7 +19,8 @@ footer {
     right:0px;
     bottom:0px;
     left:0px;
-    height:50px;
+    height:40px;
+    padding:5px;
 
     background-color:black;
 }
