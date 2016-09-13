@@ -1,0 +1,21 @@
+.app-shell {
+    color: #fff;
+}
+.app-shell .stdin {position:relative; height: 20px;}
+.app-shell form {
+    display:inline-block;
+    width:100%;
+    box-sizing: border-box;
+    padding-left:77px;
+    position:absolute;
+    top:0px;left:0px;bottom:0px;right:0px;
+}
+.app-shell input {
+    background-color: transparent;
+    border: none;
+    color:#fff;
+    width: 100%;
+    font-family: "Courier New", Courier, monospace;
+    font-size:16px;
+    outline: none;
+}

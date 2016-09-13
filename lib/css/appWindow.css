@@ -34,6 +34,10 @@
     text-align:center;
     cursor: pointer;
 }
+.app-window .button.disabled {
+    background-color: gray !important;
+    cursor: default;
+}
 .app-window .title-bar .app-title {
     display:inline-block;
     font-size: 15px;
