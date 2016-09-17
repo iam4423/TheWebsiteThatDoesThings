@@ -10,7 +10,7 @@ The intention for this project is a web app where the user is presented with a c
  - ~~add windows to the menu bar at the bottom~~
  - ~~add boundaries to the main element~~
  - create argument parser for console window
- - add console history functionality (press up)
+ - ~~add console history functionality (press up)~~
  - deal with menu bar overflow
  - ~~create start of console window (accept input/add input to console on enter)~~
  - create help 'app' for console
